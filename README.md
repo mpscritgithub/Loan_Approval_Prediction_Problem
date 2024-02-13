@@ -1,6 +1,10 @@
 # Loan_Approval_Prediction_Problem
 Explore machine learning solutions for the loan approval prediction problem, where predictive models are developed and shared to help streamline decision-making in financial institutions.
+
+
 Objective 
+
+
 Objective Clarity: Develop an advanced predictive model for loan approval, utilizing machine learning techniques and data analysis to enhance decision-making efficiency.
 Specific goals: Optimize risk management, increase loan approval speed, and enhance transparency and fairness in lending.
 Focus on innovation: Revolutionize traditional loan approval methods through advanced predictive modeling.
